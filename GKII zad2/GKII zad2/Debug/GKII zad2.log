@@ -1,0 +1,11 @@
+﻿  GKII zad2.cpp
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(81): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(82): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(103): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(104): error C2065: 'cout': undeclared identifier
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(104): error C2065: 'endl': undeclared identifier
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(105): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(106): error C2065: 'cout': undeclared identifier
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(106): error C2065: 'endl': undeclared identifier
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(107): error C2065: 'cout': undeclared identifier
+c:\users\xvier\desktop\gkii\gkii zad2\gkii zad2\gkii zad2.cpp(107): error C2065: 'endl': undeclared identifier

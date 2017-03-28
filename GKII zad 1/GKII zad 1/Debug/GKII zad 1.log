@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  GKII zad 1.cpp
+c:\users\xvier\desktop\nauka\gkii zad 1\gkii zad 1\gkii zad 1.cpp(42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\xvier\desktop\nauka\gkii zad 1\gkii zad 1\gkii zad 1.cpp(43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GKII zad 1.vcxproj -> C:\Users\Xvier\Desktop\Nauka\GKII zad 1\Debug\GKII zad 1.exe
